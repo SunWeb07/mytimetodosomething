@@ -3,7 +3,11 @@
     font-family: 'Times New Roman', Times, serif;
 }  
 
-
+h1,footer{
+    text-align:center;
+    font-size:2rem;
+    margin:10px 0;
+}
 
 .digiclock{
     text-align: center; 
