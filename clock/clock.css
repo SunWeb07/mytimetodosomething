@@ -16,6 +16,7 @@ h1,footer{
     color: black; 
     padding: 10px; 
     margin-right: 50px;
+   
     transition:cubic-bezier(0.86, 0, 0.07, 1);
 animation-name: any; 
 animation-duration: 10s;
@@ -49,6 +50,7 @@ body{
     text-align: center;
     transform: rotate(var(--rotation)); 
     font-size: 1.5rem;
+    margin:10px 0;
     font-weight: bold; 
     animation-name: any;
     animation-duration: 10s;
