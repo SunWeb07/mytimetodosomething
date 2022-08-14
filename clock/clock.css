@@ -15,7 +15,7 @@ h1,footer{
     background-color: aqua;
     color: black; 
     padding: 10px; 
-    margin-right: 50px;
+    margin:10px 50px 10px 0px;
    
     transition:cubic-bezier(0.86, 0, 0.07, 1);
 animation-name: any; 
